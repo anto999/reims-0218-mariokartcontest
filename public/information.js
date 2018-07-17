@@ -9,7 +9,7 @@ export const information = () => {
       <h1 class="jumbotron-heading">A propos</h1>
       <p class="lead text-muted"> Ce site a pour vocation de pouvoir s'inscrire et disputer des tournois de Mario Kart sur Nintendo 64 entre amis. <br/>
       Nous sommes une equipe de 4 personnes unis par une passion commune : celle de pouvoir participer a des courses sur le jeu Mario Kart. <br/>
-      Par l'intermediaire de ce site nous vous proposons de participer a des tournois ponctuels et de venir vous mesurer sur ce jeu. Que vous soyez debutant ou expert, venez passer le temps d'une soiree un moment convivial dans une ambiance festive.</p>
+      Par l'intermediairehkhhkjh de ce site nous vous proposons de participer a des tournois ponctuels et de venir vous mesurer sur ce jeu. Que vous soyez debutant ou expert, venez passer le temps d'une soiree un moment convivial dans une ambiance festive.</p>
       <h4> Quelques mots sur le jeu</h4>
       <p>Mario Kart est sans doute le jeu de course le plus connu des jeunes joueurs (et joueuses!), avec ses courses folles, au rythme des carapaces qui volent et de la tension permanente de se voir voler la premiere place de la course au dernier moment. Debut de l'histoire en 1992 avec Super Mario Kart sur Super Nintendo, la saga compte aujourd’hui son 8e opus, sorti en 2014 sur console Wii U.</p>
     </section>
