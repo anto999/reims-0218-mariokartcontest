@@ -17,7 +17,7 @@ app.use('/auth', auth)
 
 const insertMember = m => {
   const { image, name, nickname, email } = m
-  return db.get('INSERT INTO members(image, name, nickname, email ) VALUES(?, ?, ?, ?)', image, name, nickname, email,)
+  return db.get('INSERT INTO members(image, name, nickname, email ) VALUES(?, ?, ?, ?)', image, name, nickname, email)
   .then(() => db.get('SELECT last_insert_rowid() as id'))
   .then(({ id }) => db.get('SELECT * from members WHERE id = ?', id))
 }
